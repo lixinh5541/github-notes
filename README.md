@@ -1,2 +1,3 @@
 # github-notes
-Notes for Git, Github, Repo, and Commit
+Notes for Git, Github, Repo, and Commit:
+
