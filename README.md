@@ -1,3 +1,9 @@
 # github-notes
-Notes for Git, Github, Repo, and Commit:
+## Descriptions of Git, Github, Repo, and Commit:
+### Git
 
+### Github
+
+### Repo
+
+### Commit
